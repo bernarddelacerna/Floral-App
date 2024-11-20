@@ -24,10 +24,10 @@ Floral Shop Mobile App.
 <img src="assets/images/screenshot/login.jpg">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/signup.jpg">  
+<img src="assets/images/screenshot/register.jpg">  
 
 # Boarding Screen
-<img src="assets/images/screenshot/baording.jpg">  
+<img src="assets/images/screenshot/boarding.jpg">  
 
 # Walkthrough
 <https://youtube.com/shorts/NfJap_Rf4fY>
